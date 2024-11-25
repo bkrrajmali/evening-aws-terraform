@@ -1,0 +1,1 @@
+'Ec2 Instance with public IP 44.223.92.92 is up and running' 
